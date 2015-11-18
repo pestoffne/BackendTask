@@ -1,0 +1,4 @@
+D:\Projects\BackendTask2\BackendTask2\bin\Debug\BackendTask2.exe
+D:\Projects\BackendTask2\BackendTask2\bin\Debug\BackendTask2.pdb
+D:\Projects\BackendTask2\BackendTask2\obj\x86\Debug\BackendTask2.exe
+D:\Projects\BackendTask2\BackendTask2\obj\x86\Debug\BackendTask2.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="BackendTask2\BackendTask2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BackendTask2\Worker.cs">
+    <Files>
+      <File FileName="BackendTask2\Server.cs" Line="75" Column="2" />
+      <File FileName="BackendTask2\Worker.cs" Line="78" Column="42" />
+      <File FileName="BackendTask2\Request.cs" Line="39" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
